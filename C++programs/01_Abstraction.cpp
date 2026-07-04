@@ -11,7 +11,7 @@ class Fibonacci {
 
 public:
     void setRange(int range) {   
-        n = range;
+        n = range;                                          
     }
     void display() {              
         generate(0, 1, 0);
